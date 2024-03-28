@@ -30,6 +30,7 @@ Get thousands of websites from your words instantly !
 
 ## Installation
 Click below to watch a video about this amazing python script in action !
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/_pgivHpdP2M/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
 
 
